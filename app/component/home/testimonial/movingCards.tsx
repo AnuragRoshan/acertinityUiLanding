@@ -18,31 +18,32 @@ export function InfiniteMovingCardsDemo() {
 const testimonials = [
   {
     quote:
-      "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.",
-    name: "Charles Dickens",
-    title: "A Tale of Two Cities",
+      "Blockchain and NFTs are revolutionizing the way we think about ownership and digital assets.",
+    name: "Satoshi Nakamoto",
+    title: "The Future of Digital Ownership",
   },
   {
     quote:
-      "To be, or not to be, that is the question: Whether 'tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take Arms against a Sea of troubles, And by opposing end them: to die, to sleep.",
-    name: "William Shakespeare",
-    title: "Hamlet",
-  },
-  {
-    quote: "All that we see or seem is but a dream within a dream.",
-    name: "Edgar Allan Poe",
-    title: "A Dream Within a Dream",
+      "To tokenize or not to tokenize, that is the question: Whether 'tis nobler in the mind to hodl The volatility of crypto, Or to sell and take profit against a Sea of uncertainty, And by diversifying, secure them: to trade, to invest.",
+    name: "Vitalik Buterin",
+    title: "Decentralizing the Future",
   },
   {
     quote:
-      "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
-    name: "Jane Austen",
-    title: "Pride and Prejudice",
+      "All that we trade or redeem is but a blockchain transaction within a decentralized ledger.",
+    name: "Anonymous",
+    title: "The Power of Smart Contracts",
   },
   {
     quote:
-      "Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world.",
-    name: "Herman Melville",
-    title: "Moby-Dick",
+      "It is a truth universally acknowledged, that a single token in possession of a good utility, must be in want of a decentralized ecosystem.",
+    name: "Charles Hoskinson",
+    title: "Building the Next Generation of Finance",
+  },
+  {
+    quote:
+      "Call me a blockchain enthusiast. Some years ago—never mind how long precisely—I discovered the potential of decentralized finance, and nothing else has interested me as much since.",
+    name: "Crypto Enthusiast",
+    title: "The Journey into Web3",
   },
 ];
